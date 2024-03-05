@@ -1,0 +1,720 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/601fdf47feaf4b7737cecf8e_portfolio 1 - wide.svg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\601fdf47feaf4b7737cecf8e_portfolio 1 - wide.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/601fdf47feaf4bd6f3cecf89_portfolio 2 - wide.svg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\601fdf47feaf4bd6f3cecf89_portfolio 2 - wide.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/601fdff671e1343309f46c3c_mukuko-studio-tPKQwYHy8q4-unsplash.jpg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\601fdff671e1343309f46c3c_mukuko-studio-tPKQwYHy8q4-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629c966b0b67a43a43820ca0_Logo.svg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629c966b0b67a43a43820ca0_Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629cca10db005e08e28410af_rock-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629cca10db005e08e28410af_rock-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629cca10db005e08e28410af_rock-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629cca10db005e08e28410af_rock-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629cca10db005e08e28410af_rock-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629cca10db005e08e28410af_rock-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629cca10db005e08e28410af_rock.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629cca10db005e08e28410af_rock.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629cce383be4dd2f9ecdfc2f_menu.svg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629cce383be4dd2f9ecdfc2f_menu.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629cd70c4ed0f60653304f5b_Frame 14-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629cd70c4ed0f60653304f5b_Frame 14-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629cd70c4ed0f60653304f5b_Frame 14-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629cd70c4ed0f60653304f5b_Frame 14-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629cd70c4ed0f60653304f5b_Frame 14-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629cd70c4ed0f60653304f5b_Frame 14-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629cd70c4ed0f60653304f5b_Frame 14.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629cd70c4ed0f60653304f5b_Frame 14.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629cd71b55a84ffa26b9acff_Frame 13-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629cd71b55a84ffa26b9acff_Frame 13-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629cd71b55a84ffa26b9acff_Frame 13-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629cd71b55a84ffa26b9acff_Frame 13-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629cd71b55a84ffa26b9acff_Frame 13-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629cd71b55a84ffa26b9acff_Frame 13-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629cd71b55a84ffa26b9acff_Frame 13.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629cd71b55a84ffa26b9acff_Frame 13.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629cd726ab109b55e47e9596_Frame 15-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629cd726ab109b55e47e9596_Frame 15-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629cd726ab109b55e47e9596_Frame 15-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629cd726ab109b55e47e9596_Frame 15-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629cd726ab109b55e47e9596_Frame 15-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629cd726ab109b55e47e9596_Frame 15-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629cd726ab109b55e47e9596_Frame 15.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629cd726ab109b55e47e9596_Frame 15.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629cdfcf78236890da84456e_Pexels Videos 1877846 (1)-transcode.mp4
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629cdfcf78236890da84456e_Pexels Videos 1877846 (1)-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629cdfcf78236890da84456e_Pexels Videos 1877846 (1)-transcode.webm
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629cdfcf78236890da84456e_Pexels Videos 1877846 (1)-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629ce4144d67842687808e03_Frame 16-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629ce4144d67842687808e03_Frame 16-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629ce4144d67842687808e03_Frame 16-p-1600.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629ce4144d67842687808e03_Frame 16-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629ce4144d67842687808e03_Frame 16-p-2000.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629ce4144d67842687808e03_Frame 16-p-2000.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629ce4144d67842687808e03_Frame 16-p-2600.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629ce4144d67842687808e03_Frame 16-p-2600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629ce4144d67842687808e03_Frame 16-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629ce4144d67842687808e03_Frame 16-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629ce4144d67842687808e03_Frame 16-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629ce4144d67842687808e03_Frame 16-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629ce4144d67842687808e03_Frame 16.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629ce4144d67842687808e03_Frame 16.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d02874d6784f4d2818276_Vishishta Rakesh-p-500.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d02874d6784f4d2818276_Vishishta Rakesh-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d02874d6784f4d2818276_Vishishta Rakesh.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d02874d6784f4d2818276_Vishishta Rakesh.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d0330c703f3525766be32_Greg McLoughlin.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d0330c703f3525766be32_Greg McLoughlin.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d03c9b9ecd20c52986ec8_Victor Tibo.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d03c9b9ecd20c52986ec8_Victor Tibo.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d03f893841171d6dd7ddb_Maxime Therrien-Arel.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d03f893841171d6dd7ddb_Maxime Therrien-Arel.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d041d1dfa8059ae19c00c_Melanie Danner-p-500.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d041d1dfa8059ae19c00c_Melanie Danner-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d041d1dfa8059ae19c00c_Melanie Danner.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d041d1dfa8059ae19c00c_Melanie Danner.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d09c8b61709a72116ada1_Benedikt von Dosenrode Lynge-p-500.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d09c8b61709a72116ada1_Benedikt von Dosenrode Lynge-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d09c8b61709a72116ada1_Benedikt von Dosenrode Lynge.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d09c8b61709a72116ada1_Benedikt von Dosenrode Lynge.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d0c504d67841b7581c5ed_Marie Lavry-p-500.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d0c504d67841b7581c5ed_Marie Lavry-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d0c504d67841b7581c5ed_Marie Lavry.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d0c504d67841b7581c5ed_Marie Lavry.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d0e7533454947e66b7cd2_Frame 17-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d0e7533454947e66b7cd2_Frame 17-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d0e7533454947e66b7cd2_Frame 17-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d0e7533454947e66b7cd2_Frame 17-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d0e7533454947e66b7cd2_Frame 17-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d0e7533454947e66b7cd2_Frame 17-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d0e7533454947e66b7cd2_Frame 17.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d0e7533454947e66b7cd2_Frame 17.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d11664ed1a857122dd90f_Frame 18-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d11664ed1a857122dd90f_Frame 18-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d11664ed1a857122dd90f_Frame 18-p-1600.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d11664ed1a857122dd90f_Frame 18-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d11664ed1a857122dd90f_Frame 18-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d11664ed1a857122dd90f_Frame 18-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d11664ed1a857122dd90f_Frame 18-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d11664ed1a857122dd90f_Frame 18-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629d11664ed1a857122dd90f_Frame 18.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629d11664ed1a857122dd90f_Frame 18.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629dd26bdc21ae6ce22eb5da_Futurae_Logo_V2-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629dd26bdc21ae6ce22eb5da_Futurae_Logo_V2-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629dd26bdc21ae6ce22eb5da_Futurae_Logo_V2-p-1600.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629dd26bdc21ae6ce22eb5da_Futurae_Logo_V2-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629dd26bdc21ae6ce22eb5da_Futurae_Logo_V2-p-2000.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629dd26bdc21ae6ce22eb5da_Futurae_Logo_V2-p-2000.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629dd26bdc21ae6ce22eb5da_Futurae_Logo_V2-p-2600.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629dd26bdc21ae6ce22eb5da_Futurae_Logo_V2-p-2600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629dd26bdc21ae6ce22eb5da_Futurae_Logo_V2-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629dd26bdc21ae6ce22eb5da_Futurae_Logo_V2-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629dd26bdc21ae6ce22eb5da_Futurae_Logo_V2-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629dd26bdc21ae6ce22eb5da_Futurae_Logo_V2-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629dd26bdc21ae6ce22eb5da_Futurae_Logo_V2.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629dd26bdc21ae6ce22eb5da_Futurae_Logo_V2.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629dd992042b4e32b16e2809_nagy-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629dd992042b4e32b16e2809_nagy-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629dd992042b4e32b16e2809_nagy-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629dd992042b4e32b16e2809_nagy-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629dd992042b4e32b16e2809_nagy-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629dd992042b4e32b16e2809_nagy-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629dd992042b4e32b16e2809_nagy.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629dd992042b4e32b16e2809_nagy.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629de17e9c8a364dbdbe26fb_Frame 20-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629de17e9c8a364dbdbe26fb_Frame 20-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629de17e9c8a364dbdbe26fb_Frame 20-p-1600.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629de17e9c8a364dbdbe26fb_Frame 20-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629de17e9c8a364dbdbe26fb_Frame 20-p-2000.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629de17e9c8a364dbdbe26fb_Frame 20-p-2000.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629de17e9c8a364dbdbe26fb_Frame 20-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629de17e9c8a364dbdbe26fb_Frame 20-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629de17e9c8a364dbdbe26fb_Frame 20-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629de17e9c8a364dbdbe26fb_Frame 20-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629de17e9c8a364dbdbe26fb_Frame 20.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629de17e9c8a364dbdbe26fb_Frame 20.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629df421817078fcd40a72ef_medium_VT-BLACK%404x-8-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629df421817078fcd40a72ef_medium_VT-BLACK@4x-8-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629df421817078fcd40a72ef_medium_VT-BLACK%404x-8.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629df421817078fcd40a72ef_medium_VT-BLACK@4x-8.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629df7a449b4950ffe6fd3de_lisb-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629df7a449b4950ffe6fd3de_lisb-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629df7a449b4950ffe6fd3de_lisb-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629df7a449b4950ffe6fd3de_lisb-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629df7a449b4950ffe6fd3de_lisb-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629df7a449b4950ffe6fd3de_lisb-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629df7a449b4950ffe6fd3de_lisb.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629df7a449b4950ffe6fd3de_lisb.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629df9acf6823c40b6c46019_Alessandro Volpato-p-500.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629df9acf6823c40b6c46019_Alessandro Volpato-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629df9acf6823c40b6c46019_Alessandro Volpato.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629df9acf6823c40b6c46019_Alessandro Volpato.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629dfa5aa21df03678357d71_8ccea9af-p-500.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629dfa5aa21df03678357d71_8ccea9af-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629dfa5aa21df03678357d71_8ccea9af.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629dfa5aa21df03678357d71_8ccea9af.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629dfa912bc48028937a2112_937f23bf-p-500.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629dfa912bc48028937a2112_937f23bf-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629dfa912bc48028937a2112_937f23bf.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629dfa912bc48028937a2112_937f23bf.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629dfda1f9e4c629b978af21_27e0c3e5-p-500.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629dfda1f9e4c629b978af21_27e0c3e5-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629dfda1f9e4c629b978af21_27e0c3e5.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629dfda1f9e4c629b978af21_27e0c3e5.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e14d06c1714f8fe25507d_bulb-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e14d06c1714f8fe25507d_bulb-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e14d06c1714f8fe25507d_bulb-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e14d06c1714f8fe25507d_bulb-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e14d06c1714f8fe25507d_bulb-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e14d06c1714f8fe25507d_bulb-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e14d06c1714f8fe25507d_bulb.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e14d06c1714f8fe25507d_bulb.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e1a0c18e9584123658d06_only.svg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e1a0c18e9584123658d06_only.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e1ea654ba32b5bf8a1c0e_Pedro Lucas Castro (1)-p-500.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e1ea654ba32b5bf8a1c0e_Pedro Lucas Castro (1)-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e1ea654ba32b5bf8a1c0e_Pedro Lucas Castro (1).jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e1ea654ba32b5bf8a1c0e_Pedro Lucas Castro (1).jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e1fb72ace7a0562357e31_Szilvia Varga-p-500.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e1fb72ace7a0562357e31_Szilvia Varga-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e1fb72ace7a0562357e31_Szilvia Varga.jpg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e1fb72ace7a0562357e31_Szilvia Varga.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e1fdaea419eebd42018e1_Felix Bensberg.jpg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e1fdaea419eebd42018e1_Felix Bensberg.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e210e8092df89d1ea42f4_Gigi Huang.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e210e8092df89d1ea42f4_Gigi Huang.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e217846df32f791c853d9_AlwinSchmid-p-500.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e217846df32f791c853d9_AlwinSchmid-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e217846df32f791c853d9_AlwinSchmid-p-800.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e217846df32f791c853d9_AlwinSchmid-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e217846df32f791c853d9_AlwinSchmid.jpg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e217846df32f791c853d9_AlwinSchmid.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e43b7ce7ed681de736b3b_6f817962.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e43b7ce7ed681de736b3b_6f817962.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e43fd4271c425f40f1d23_b743f7b9-p-500.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e43fd4271c425f40f1d23_b743f7b9-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e43fd4271c425f40f1d23_b743f7b9.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e43fd4271c425f40f1d23_b743f7b9.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e443fd3533a7873dc61c2_Ellen deng-p-500.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e443fd3533a7873dc61c2_Ellen deng-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e443fd3533a7873dc61c2_Ellen deng.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e443fd3533a7873dc61c2_Ellen deng.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e44984f776befdc650436_382c446d-p-500.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e44984f776befdc650436_382c446d-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e44984f776befdc650436_382c446d.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e44984f776befdc650436_382c446d.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e4b8dee2844f6147fea77_ora-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e4b8dee2844f6147fea77_ora-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e4b8dee2844f6147fea77_ora-p-1600.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e4b8dee2844f6147fea77_ora-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e4b8dee2844f6147fea77_ora-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e4b8dee2844f6147fea77_ora-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e4b8dee2844f6147fea77_ora-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e4b8dee2844f6147fea77_ora-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/629e4b8dee2844f6147fea77_ora.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\629e4b8dee2844f6147fea77_ora.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62a8b5fa022ea82e462b3ad4_robert.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62a8b5fa022ea82e462b3ad4_robert.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62ab8733121043616363e9e6_Frame 27.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62ab8733121043616363e9e6_Frame 27.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62ab87977771fe3d2df77f30_Group 26.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62ab87977771fe3d2df77f30_Group 26.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62ab92aaedac11620c957d8a_Frame 12-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62ab92aaedac11620c957d8a_Frame 12-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62ab92aaedac11620c957d8a_Frame 12-p-1600.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62ab92aaedac11620c957d8a_Frame 12-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62ab92aaedac11620c957d8a_Frame 12-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62ab92aaedac11620c957d8a_Frame 12-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62ab92aaedac11620c957d8a_Frame 12-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62ab92aaedac11620c957d8a_Frame 12-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62ab92aaedac11620c957d8a_Frame 12.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62ab92aaedac11620c957d8a_Frame 12.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af20a050108882d42b9382_Frame 33-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af20a050108882d42b9382_Frame 33-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af20a050108882d42b9382_Frame 33-p-1600.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af20a050108882d42b9382_Frame 33-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af20a050108882d42b9382_Frame 33-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af20a050108882d42b9382_Frame 33-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af20a050108882d42b9382_Frame 33-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af20a050108882d42b9382_Frame 33-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af20a050108882d42b9382_Frame 33.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af20a050108882d42b9382_Frame 33.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af215f356884289ca01056_Frame 34-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af215f356884289ca01056_Frame 34-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af215f356884289ca01056_Frame 34-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af215f356884289ca01056_Frame 34-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af215f356884289ca01056_Frame 34-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af215f356884289ca01056_Frame 34-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af215f356884289ca01056_Frame 34.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af215f356884289ca01056_Frame 34.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af22584e77800aacaf4937_Frame 35-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af22584e77800aacaf4937_Frame 35-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af22584e77800aacaf4937_Frame 35-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af22584e77800aacaf4937_Frame 35-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af22584e77800aacaf4937_Frame 35-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af22584e77800aacaf4937_Frame 35-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af22584e77800aacaf4937_Frame 35.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af22584e77800aacaf4937_Frame 35.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af26c9d93f76ec1972a237_docc-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af26c9d93f76ec1972a237_docc-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af26c9d93f76ec1972a237_docc-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af26c9d93f76ec1972a237_docc-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af26c9d93f76ec1972a237_docc-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af26c9d93f76ec1972a237_docc-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af26c9d93f76ec1972a237_docc.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af26c9d93f76ec1972a237_docc.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af2e37bb3c557b1447503f_zaefiro.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af2e37bb3c557b1447503f_zaefiro.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af2ea7450de1c44f116f80_beamsIcon.svg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af2ea7450de1c44f116f80_beamsIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af3af1d8da1c14a7ab31aa_aram.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af3af1d8da1c14a7ab31aa_aram.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af3b8ec5d9c113a976a0b6_nico.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af3b8ec5d9c113a976a0b6_nico.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af3bd83263c75f489963dd_joja.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af3bd83263c75f489963dd_joja.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af3c083249a97545ad339a_eva.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af3c083249a97545ad339a_eva.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af54d1d598700fb4822136_gro-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af54d1d598700fb4822136_gro-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af54d1d598700fb4822136_gro-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af54d1d598700fb4822136_gro-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af54d1d598700fb4822136_gro-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af54d1d598700fb4822136_gro-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62af54d1d598700fb4822136_gro.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62af54d1d598700fb4822136_gro.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62b1ddbb2f1323144669a9af_cee-p-500.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62b1ddbb2f1323144669a9af_cee-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62b1ddbb2f1323144669a9af_cee-p-800.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62b1ddbb2f1323144669a9af_cee-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62b1ddbb2f1323144669a9af_cee.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62b1ddbb2f1323144669a9af_cee.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62cedc77fd5e303f3d9d68ba_jacopo-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62cedc77fd5e303f3d9d68ba_jacopo-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62cedc77fd5e303f3d9d68ba_jacopo-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62cedc77fd5e303f3d9d68ba_jacopo-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/62cedc77fd5e303f3d9d68ba_jacopo.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\62cedc77fd5e303f3d9d68ba_jacopo.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/634326cf859df6334b96bc32_TheOater_Logo_standard-p-1080.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\634326cf859df6334b96bc32_TheOater_Logo_standard-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/634326cf859df6334b96bc32_TheOater_Logo_standard-p-1600.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\634326cf859df6334b96bc32_TheOater_Logo_standard-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/634326cf859df6334b96bc32_TheOater_Logo_standard-p-2000.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\634326cf859df6334b96bc32_TheOater_Logo_standard-p-2000.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/634326cf859df6334b96bc32_TheOater_Logo_standard-p-2600.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\634326cf859df6334b96bc32_TheOater_Logo_standard-p-2600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/634326cf859df6334b96bc32_TheOater_Logo_standard-p-3200.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\634326cf859df6334b96bc32_TheOater_Logo_standard-p-3200.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/634326cf859df6334b96bc32_TheOater_Logo_standard-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\634326cf859df6334b96bc32_TheOater_Logo_standard-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/634326cf859df6334b96bc32_TheOater_Logo_standard-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\634326cf859df6334b96bc32_TheOater_Logo_standard-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/634326cf859df6334b96bc32_TheOater_Logo_standard.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\634326cf859df6334b96bc32_TheOater_Logo_standard.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/643bfea4bfd195a5f176ba8e_Logo-eoliann-1.svg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\643bfea4bfd195a5f176ba8e_Logo-eoliann-1.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/64bec8c43cf24e09411f5b4b_1568029441813.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\64bec8c43cf24e09411f5b4b_1568029441813.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/64bec8f8036f5ca78f6fdbbc_1613377689097-p-500.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\64bec8f8036f5ca78f6fdbbc_1613377689097-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/64bec8f8036f5ca78f6fdbbc_1613377689097.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\64bec8f8036f5ca78f6fdbbc_1613377689097.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/64bec92717ff09ac96669ab8_1679654696231-p-500.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\64bec92717ff09ac96669ab8_1679654696231-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/64bec92717ff09ac96669ab8_1679654696231.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\64bec92717ff09ac96669ab8_1679654696231.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/64bec95a1d0799a80325f2d9_1619161385419-p-500.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\64bec95a1d0799a80325f2d9_1619161385419-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/64bec95a1d0799a80325f2d9_1619161385419.jpeg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\64bec95a1d0799a80325f2d9_1619161385419.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/65d26b0cf3c28f44ab0cea65_Screenshot 2024-02-16 alle 23.19.34-p-500.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\65d26b0cf3c28f44ab0cea65_Screenshot 2024-02-16 alle 23.19.34-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/65d26b0cf3c28f44ab0cea65_Screenshot 2024-02-16 alle 23.19.34-p-800.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\65d26b0cf3c28f44ab0cea65_Screenshot 2024-02-16 alle 23.19.34-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/65d26b0cf3c28f44ab0cea65_Screenshot 2024-02-16 alle 23.19.34.png
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\65d26b0cf3c28f44ab0cea65_Screenshot 2024-02-16 alle 23.19.34.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/css/cemsentrepreneurs.webflow.54336f226.css
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\css\cemsentrepreneurs.webflow.54336f226.css
+Content Type: text/css
+
+Uri: https://assets-global.website-files.com/601fdf47ba513d03e3427759/js/webflow.2d1bec06b.js
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\601fdf47ba513d03e3427759\js\webflow.2d1bec06b.js
+Content Type: text/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\img\background-image.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=601fdf47ba513d03e3427759
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://www.cemsentrepreneurs.com/
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\index.htm
+Content Type: text/html
+
+Uri: https://www.cemsentrepreneurs.com/about
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\about.html
+Content Type: text/html
+
+Uri: https://www.cemsentrepreneurs.com/contact
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\contact.html
+Content Type: text/html
+
+Uri: https://www.cemsentrepreneurs.com/investor-pitch
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\investor-pitch.html
+Content Type: text/html
+
+Uri: https://www.cemsentrepreneurs.com/projects
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\projects.html
+Content Type: text/html
+
+Uri: https://www.cemsentrepreneurs.com/startup-challenge
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\startup-challenge.html
+Content Type: text/html
+
+Uri: https://www.cemsentrepreneurs.com/team
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\team.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-35KPS9SYK9
+File Name: C:\Downloaded Web Sites\www.cemsentrepreneurs.com\gtag\js
+Content Type: application/javascript
+
